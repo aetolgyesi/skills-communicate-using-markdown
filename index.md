@@ -1,4 +1,2 @@
-# This is my first header
-And this is my stuff underneath
-## This is my second smaller header
-And here is some stuff underneath
+# This is my image of a crazy cat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
